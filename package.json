@@ -1,5 +1,6 @@
 {
   "name": "notes",
+  "homepage": "https://ksn-i777.github.io/notes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
