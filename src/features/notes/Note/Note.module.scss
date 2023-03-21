@@ -1,0 +1,15 @@
+.noteContainer {
+  display: grid;
+  grid-template-columns: 1fr 20px 20px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  .noteWithTags {
+    display: flex;
+    flex-direction: column;
+    .tags {
+      font-size: 12px;
+      color: gray;
+    }
+  }
+}
